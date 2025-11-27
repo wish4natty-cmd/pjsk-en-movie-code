@@ -6,7 +6,7 @@ import os
 
 
 url = "https://n-production-serial-code.sekai-en.com/api/serial-code"
-user_id = "413727xxxxxxxxxxxx"  # replace with your actual user ID if needed
+user_id = "677869293366751238"  # replace with your actual user ID if needed
 
 headers = {
     "Host": "n-production-serial-code.sekai-en.com",
